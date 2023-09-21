@@ -1,0 +1,19 @@
+ {
+    "manifest_version": 2,
+    "version": "1.0",
+    "name": "Fusion",
+    "short_name": "fusion",
+    "scope": "/",
+    "start_url": "/",
+    "icons": [
+      {
+        "src": "/img/homeicon.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "orientation": "any"
+  }
